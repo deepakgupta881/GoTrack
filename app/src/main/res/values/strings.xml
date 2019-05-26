@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GoTrack</string>
+    <!--google map key-->
+    <string name="google_map_key">AIzaSyCp8U1PZBx-FZ7x6rcPtoT0YPFzOa-JOZU</string>
+
+    <!--location service -->
+    <string name="location_updated">Getting Location: %1$s</string>
+    <string name="lost_permission">Lost location permission.</string>
+    <string name="new_loc">New location:</string>
+    <string name="remove_loc">Removing location updates</string>
+    <string name="lost_loc_permission">Lost location permission. Could not remove updates.</string>
+    <string name="request_loc">Requesting location updates</string>
+    <string name="start_foreground_service">Starting foreground service</string>
+    <string name="unbound_service">Last client unbound from service</string>
+    <string name="rebind_service">in onRebind</string>
+    <string name="on_bind_service">in onBind()</string>
+    <string name="service_started">Service started</string>
+    <string name="no_internet_connectivity">No Internet Connectivity</string>
+    <string name="google_service_not_avail">Google place service is not available in your phone</string>
+    <string name="failed_to_get_location">Failed to get user location</string>
+    <string name="rationale_storage">Need required permissions to run this app.</string>
+    <string name="txt_package">package</string>
+    <string name="settings">Settings</string>
+
+
+</resources>
